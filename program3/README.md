@@ -20,9 +20,9 @@
 
 ### Part 2: Randomized Testing
 1. Generate random test data with the following constraints:
-* 0 < nums.length <= 200000
-* 0 < nums[i] < 1000
+   - 0 < nums.length <= 200000
+   - 0 < nums[i] < 1000
 2. Sort the random data using the three sorting algorithms.
 3. **Output details**:
-* If nums.length > 100, do not print sorting details.
-* Otherwise, follow the same detailed output format as in Part 1.
+   - If nums.length > 100, do not print sorting details.
+   - Otherwise, follow the same detailed output format as in Part 1.
