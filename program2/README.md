@@ -1,7 +1,7 @@
 # Program Assignment 2: Huffman Coding
 
 **Course:** Introduction to Data Structures and Object-Oriented Programming  
-**Instructor:** Prof.Feng-Jian Wang 
+**Instructor:** Prof. Feng-Jian Wang 
 
 ---
 
