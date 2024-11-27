@@ -1,7 +1,7 @@
 # Program Assignment 3: Sorting with LSD Radix, Quick, and Insertion Methods
 
 **Course:** Introduction to Data Structures and Object-Oriented Programming  
-**Instructor:** Prof.Feng-Jian Wang 
+**Instructor:** Prof. Feng-Jian Wang 
 
 ---
 
