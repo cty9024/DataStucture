@@ -10,7 +10,6 @@
 ### Part 1: Building the Huffman Tree  
 Write a C++ function to construct a Huffman tree using the following alphabets and their respective weights:
 
-| | | | | | |
 |--------|--------|--------|--------|--------|--------|  
 | A = 11 | B = 5  | C = 2  | D = 3  | E = 12 | F = 3  |
 | G = 5  | H = 6  | I = 8  | J = 1  | K = 2  | L = 4  |
