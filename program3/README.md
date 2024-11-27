@@ -1,4 +1,4 @@
-# Program Assignment 
+# Program Assignment 3: Sorting with LSD Radix, Quick, and Insertion Methods
 
 **Course:** Introduction to Data Structures and Object-Oriented Programming  
 **Instructor:** Prof.Feng-Jian Wang 
@@ -15,7 +15,7 @@
 2. Sort the given array in ascending order:
    ```cpp
    Input: nums = {168, 179, 208, 306, 93, 859, 984, 55, 9, 271, 33};
-   Output: {9, 33, 55, 93, 168, 179, 208, 271, 306, 859, 984};'''
+   Output: {9, 33, 55, 93, 168, 179, 208, 271, 306, 859, 984};
 3. Print detailed execution steps for each sorting method. 
 
 ### Part 2: Randomized Testing
